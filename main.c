@@ -37,6 +37,7 @@ void sort_list(int * list, long int lenght) {
 
         index *= 10;
     } while (big /= 10);
+    free(output);
 }
 
 int main(int argc, char ** argv) {
