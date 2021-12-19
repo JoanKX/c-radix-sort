@@ -1,5 +1,5 @@
 # c-radix-sort
-Radix sort in c example
+Radix sort in c
 
 ## Build
 ```
